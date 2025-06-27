@@ -52,3 +52,8 @@ footer {
   background-color: #e0f2f1; /* Very light teal */
   font-size: 0.9rem;
 }
+.contact-form {
+  padding: 40px;
+  margin: 50px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
