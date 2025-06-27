@@ -98,4 +98,7 @@ Before submitting your project, ensure the following:
 - [ ] Completed and updated the `Assignment.md` file which will be marked and graded
 
 
+- Create a branch for each issue
+- Use Conventional Commits (feat, fix, refactor, perf, docs)
+- Open a pull request and link issues
 
